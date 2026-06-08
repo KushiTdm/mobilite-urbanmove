@@ -15,8 +15,7 @@ const POSTS = [
     title: 'Trottinette vs vélo électrique : que choisir pour la ville ?',
     excerpt:
       'Autonomie, encombrement, prix : le guide complet pour faire le bon choix selon vos trajets.',
-    image:
-      'https://images.pexels.com/photos/1592384/pexels-photo-1592384.jpeg?auto=compress&cs=tinysrgb&w=1200',
+    image: '/mobilite/trotinettes-veloElec.webp',
     category: 'Guide',
     readTime: '7 min',
     date: '12 mai 2025',
@@ -25,8 +24,7 @@ const POSTS = [
     title: 'Les 5 règles d\'or pour bien entretenir sa trottinette',
     excerpt:
       'Pression des pneus, batterie, freins : nos conseils pour faire durer votre engin 3× plus longtemps.',
-    image:
-      'https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&cs=tinysrgb&w=1200',
+    image: '/mobilite/trottinette1.webp',
     category: 'Entretien',
     readTime: '5 min',
     date: '28 avril 2025',
@@ -35,8 +33,7 @@ const POSTS = [
     title: 'Législation EDPM 2025 : ce qui change vraiment',
     excerpt:
       'Casque obligatoire, assurance, zones interdites : tout ce que vous devez savoir.',
-    image:
-      'https://images.pexels.com/photos/1462636/pexels-photo-1462636.jpeg?auto=compress&cs=tinysrgb&w=1200',
+    image: '/mobilite/trottinette2.webp',
     category: 'Législation',
     readTime: '6 min',
     date: '15 avril 2025',
@@ -45,8 +42,7 @@ const POSTS = [
     title: 'Notre top 10 des plus belles balades à vélo en Île-de-France',
     excerpt:
       'Boucles roulantes, cadres bucoliques : nos coups de cœur pour les week-ends.',
-    image:
-      'https://images.pexels.com/photos/100582/pexels-photo-100582.jpeg?auto=compress&cs=tinysrgb&w=1200',
+    image: '/mobilite/velo1.webp',
     category: 'Balades',
     readTime: '8 min',
     date: '3 avril 2025',
@@ -55,8 +51,7 @@ const POSTS = [
     title: 'Skateboard électrique : comment débuter sans se blesser',
     excerpt:
       'Postures, équipement, exercices : nos conseils pour progresser en sécurité.',
-    image:
-      'https://images.pexels.com/photos/1170149/pexels-photo-1170149.jpeg?auto=compress&cs=tinysrgb&w=1200',
+    image: '/mobilite/skate1.webp',
     category: 'Débutant',
     readTime: '4 min',
     date: '20 mars 2025',
@@ -65,8 +60,7 @@ const POSTS = [
     title: 'Batterie lithium : 7 idées reçues à oublier',
     excerpt:
       'Décharge complète, charge nocturne, hiver : on démêle le vrai du faux.',
-    image:
-      'https://images.pexels.com/photos/7641848/pexels-photo-7641848.jpeg?auto=compress&cs=tinysrgb&w=1200',
+    image: '/mobilite/monoroue1.webp',
     category: 'Tech',
     readTime: '5 min',
     date: '8 mars 2025',

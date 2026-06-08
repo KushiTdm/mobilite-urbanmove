@@ -29,10 +29,8 @@ import { NewsletterForm } from '@/components/newsletter-form';
 import { ContactForm } from '@/components/contact-form';
 import { GsapInit } from '@/components/gsap-init';
 
-const HERO_IMG =
-  'https://images.pexels.com/photos/8936927/pexels-photo-8936927.jpeg?auto=compress&cs=tinysrgb&w=2000';
-const CTA_IMG =
-  'https://images.pexels.com/photos/9322186/pexels-photo-9322186.jpeg?auto=compress&cs=tinysrgb&w=2000';
+const HERO_IMG = '/mobilite/trotinettes-veloElec.webp';
+const CTA_IMG = '/mobilite/velo1.webp';
 
 export default function HomePage() {
   return (

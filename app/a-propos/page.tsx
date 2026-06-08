@@ -79,7 +79,7 @@ export default function AProposPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid lg:grid-cols-2 gap-12 items-center">
           <div className="relative aspect-[5/6] rounded-3xl overflow-hidden" data-reveal>
             <Image
-              src="https://images.pexels.com/photos/9322186/pexels-photo-9322186.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              src="/mobilite/trotinettes-veloElec.webp"
               alt="Trottinettes urbaines UrbanMove"
               fill
               sizes="(min-width:1024px) 50vw, 100vw"
